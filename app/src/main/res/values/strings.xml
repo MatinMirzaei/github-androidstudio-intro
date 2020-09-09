@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GitHub Intro</string>
+    <string name="weclome_to_git">Weclome To Git!</string>
+    <string name="enter_your_first_name">Enter your  First Name</string>
 </resources>
